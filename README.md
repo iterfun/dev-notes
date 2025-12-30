@@ -23,14 +23,14 @@ Just a personal tech note archive while learning to be a better developer. Cover
 - Message Queues
   - RocketMQ
 - Design Patterns
-  - Structural（结构型）
+  - Structural
     - Facade
     - Adapter
     - Proxy
-  - Behavioral（行为型）
+  - Behavioral
     - Strategy
     - Observer
     - Template Method
-  - Creational（创建型）
+  - Creational
     - Factory Method
     - Builder
